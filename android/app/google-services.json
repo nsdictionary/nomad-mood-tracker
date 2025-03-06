@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193754728861",
+    "project_id": "mood-tracker-ds1svg",
+    "storage_bucket": "mood-tracker-ds1svg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193754728861:android:1cf9d3c26a2c369dbd4774",
+        "android_client_info": {
+          "package_name": "com.example.mood_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpSBXic8sK4k8kNzpCBDvYWftEZ0I860"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
