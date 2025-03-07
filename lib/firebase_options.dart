@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDB_Lgtnzgqq69E8AKPO2AbKPjYJOK-JBI',
+    apiKey: '',
     appId: '1:193754728861:web:ee593b16fac6baefbd4774',
     messagingSenderId: '193754728861',
     projectId: 'mood-tracker-ds1svg',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBLpSBXic8sK4k8kNzpCBDvYWftEZ0I860',
+    apiKey: '',
     appId: '1:193754728861:android:1cf9d3c26a2c369dbd4774',
     messagingSenderId: '193754728861',
     projectId: 'mood-tracker-ds1svg',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBtfcD9GEJTDW5pxN0J9-ZKdAneKDs_Ook',
+    apiKey: '',
     appId: '1:193754728861:ios:10ef0a5facf5b618bd4774',
     messagingSenderId: '193754728861',
     projectId: 'mood-tracker-ds1svg',
